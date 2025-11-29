@@ -26,3 +26,4 @@ Sistem perpustakaan digital untuk project UAS dengan implementasi OOP Python.
 2. **Install dependencies:**
    ```bash
    pip install -r requirements.txt# satanas666
+# satanas666
